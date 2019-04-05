@@ -66,4 +66,4 @@ What is learned for occlusion and pose variant faces? In the left, we illustrate
 We compare our best results to several stateof-the-art methods on FERPlus, AffectNet, SFEW, and RAFDB.
 
 ## Our training codes and collected datasets
-You can find occlusion dataset([ferplusocclusion](https://github.com/kaiwang960112/Challenge-condition-FER-dataset/blob/master/FERplus_dir/jianfei_occlusion_list.txt),affectnetocclusion()), pose(>30)(ferpluspose30(),affectnetpose30()) and pose(>45)(ferpluspose45(),affectnetpose45()) list.
+You can find occlusion dataset([ferplusocclusion](https://github.com/kaiwang960112/Challenge-condition-FER-dataset/blob/master/FERplus_dir/jianfei_occlusion_list.txt),affectnetocclusion()), pose(>30)([ferpluspose30](https://github.com/kaiwang960112/Challenge-condition-FER-dataset/blob/master/FERplus_dir/pose_30_ferplus_list.txt),affectnetpose30()) and pose(>45)([ferpluspose45](https://github.com/kaiwang960112/Challenge-condition-FER-dataset/blob/master/FERplus_dir/pose_30_ferplus_list.txt),affectnetpose45()) list.
