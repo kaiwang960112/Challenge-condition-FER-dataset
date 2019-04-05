@@ -2,7 +2,7 @@
 
                                   Kai Wang, Xiaojiang Peng, Jianfei Yang, Debin Meng, and Yu Qiao
                               Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
-                                             {kai.wang, ,xj.peng,yu.qiao}@siat.ac.cn
+                                             {kai.wang, xj.peng, yu.qiao}@siat.ac.cn
 
 ![image](https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/sample.png)
 
