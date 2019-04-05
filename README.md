@@ -30,9 +30,12 @@ The feature set <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$X$$" s
 
 ## Confused Metrics
 <div align="center">
-<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/baseline_affectnet_occlusion-v7.png" width="300" >
+<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/baseline_affectnet_occlusion-v7.png" width="240" >
 
-<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/baseline_affectnet_occlusion-v7.png" width="300" >
+<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/affectnet_occlusion-v7.png" width="240" >
 
+<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/baseline_affectnet_pose45-1.png" width="240" >
+
+<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/affectnet_pose45-1.png" width="240" >
  </div>
 
