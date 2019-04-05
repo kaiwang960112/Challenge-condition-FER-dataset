@@ -54,3 +54,9 @@ The feature set <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$X$$" s
 
 The confusion matrices of baseline methods and our RAN on the Occlusion- and Pose-AffectNet test sets.
 
+## What is learned for occlusion and pose variant faces?
+<div align="center">
+<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/w_o_pbl-1.png" width="420" >
+
+<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/vis_score.png" width="420" >
+ </div>
