@@ -11,4 +11,8 @@ Abstract—Occlusion and pose variations, which can change facial appearance sig
 
 ## Region Attention Network
 ![image](https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/pipeline_final.png)
-The proposed RAN mainly consists of two stages. The first stage is to coarsely calculate the importance of each region by a FC layer conducted on its own feature, which is called self-attention module. The second stage seeks to find more accurate attention weights by modeling the relation between the region features and the aggregated content representation from the first stage, which is called relation-attention module. 
+
+The proposed RAN mainly consists of two stages. The first stage is to coarsely calculate the importance of each region by a FC layer conducted on its own feature, which is called self-attention module. The second stage seeks to find more accurate attention weights by modeling the relation between the region features and the aggregated content representation from the first stage, which is called relation-attention module.
+
+Formally, we denote a face image as $I$, its duplicate as $I_0$, and its crops as ${I_1},{I_2}, \cdots ,{I_k}$,  and the backbone CNN as $r(\cdot;{\theta})$. The feature set $X$ of $I$ is defined by: X = [{F_0},{F_1}, \cdots, {F_k}] = [r({I_0};{\theta}),r({I_1};{\theta}), \cdots ,r({I_k};{\theta})],
+where $\theta$ is the parameter of backbone CNN.
