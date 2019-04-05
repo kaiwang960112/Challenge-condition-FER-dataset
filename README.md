@@ -27,3 +27,10 @@ The feature set <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$X$$" s
 
 ## Region Generation 
 <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/part_generate_v3.png">
+
+## Confused Metrics
+<figure class="forth">
+    <img src="http://xxx.jpg">
+    <img src="http://yyy.jpg">
+    <img src="http://zzz.jpg">
+</figure>
