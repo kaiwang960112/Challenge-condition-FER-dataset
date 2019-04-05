@@ -65,3 +65,5 @@ What is learned for occlusion and pose variant faces? In the left, we illustrate
 ## Comparison with the state-of-the-art methods
 We compare our best results to several stateof-the-art methods on FERPlus, AffectNet, SFEW, and RAFDB.
 
+## Our training codes and collected datasets
+You can find occlusion dataset(ferplusocclusion(),affectnetocclusion()), pose(>30)(ferpluspose30(),affectnetpose30()) and pose(>45)(ferpluspose45(),affectnetpose45()) list.
