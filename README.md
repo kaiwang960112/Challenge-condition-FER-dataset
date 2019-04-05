@@ -26,6 +26,9 @@ The feature set <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$X$$" s
 
 ### Region Biased Loss
 
+Inspired by the observation that different facial expressions are mainly defined by different facial regions~\cite{boucher1975facial}, we make a straightforward constraint on the attention weights of self-attention, *i.e.* region biased loss (RB-Loss).
+This constraint enforces that one of the attention weights from facial crops should be larger than the original face image with a margin. Formally, the RB-Loss is defined as,<img src="http://chart.googleapis.com/chart?cht=tx&chl= $$\mathcal{L}_{RB} = \max\{0, \alpha - (\mu_{max} - \mu_{0})\},$$" style="border:none;"> where <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$\alpha$$" style="border:none;"> is a hyper-parameter served as a margin, <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$\mu_{0}$$" style="border:none;"> is the attention weight of the copy face image, <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$\mu_{max}$$" style="border:none;"> denotes the maximum weight of all facial crops.
+
 ## Region Generation 
 <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/part_generate_v3.png">
 
