@@ -25,11 +25,4 @@ The feature set <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$X$$" s
 ### Region Biased Loss
 
 ## Region Generation 
-
-<div style='display: none'>
-<figure class="half">
-    <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/part_generate_v3.png">
-    <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/part_generate_v3.png">
-</figure>
-</div>
 <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/part_generate_v3.png">
