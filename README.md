@@ -10,3 +10,4 @@ Abstract—Occlusion and pose variations, which can change facial appearance sig
 
 
 ## Region Attention Network
+![image](https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/pipeline_final.png)
