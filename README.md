@@ -60,3 +60,4 @@ The confusion matrices of baseline methods and our RAN on the Occlusion- and Pos
 
 <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/vis_score.png" width="420" >
  </div>
+What is learned for occlusion and pose variant faces? In the left, we illustrate the final attention weights with softmax function to better explore our RAN in figure above. To better explore our RAN, we illustrate the final attention weights for several examples with RB-Loss and without RB-Loss, respectively. Occlusion examples are shown in the first two rows, and pose examples in the last two rows.
