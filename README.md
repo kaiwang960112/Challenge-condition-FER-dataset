@@ -29,7 +29,7 @@ The feature set <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$X$$" s
 <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/part_generate_v3.png">
 
 ## Confused Metrics
-<div align="center">
+<div align="left">
 <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/baseline_affectnet_occlusion-v7.png" width="200" >
 
 <img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/affectnet_occlusion-v7.png" width="200" >
