@@ -21,9 +21,7 @@ Formally, we denote a face image as <img src="http://chart.googleapis.com/chart?
 The feature set <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$X$$" style="border:none;"> of <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$I$$" style="border:none;"> is defined by: <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$X = [{F_0},{F_1}, \cdots, {F_k}] = [r({I_0};{\theta}),r({I_1};{\theta}), \cdots ,r({I_k};{\theta})]$$" style="border:none;"> where <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$\theta$$" style="border:none;"> is the parameter of backbone CNN.
 -->
 
-### Self-attention module
-
-### Relation-attention module
+<!--### Relation-attention module-->
 
 ### Region Biased Loss
 
