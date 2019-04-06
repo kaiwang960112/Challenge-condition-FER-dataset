@@ -2,7 +2,7 @@
 
                                   Kai Wang, Xiaojiang Peng, Jianfei Yang, Debin Meng, and Yu Qiao
                               Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
-                                             {kai.wang, xj.peng, db.meng, yu.qiao}@siat.ac.cn
+                                         {kai.wang, xj.peng, db.meng, yu.qiao}@siat.ac.cn
 
 ![image](https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/sample.png)
 
@@ -65,7 +65,7 @@ What is learned for occlusion and pose variant faces? In the left, we illustrate
 ## Comparison with the state-of-the-art methods
 We compare our best results to several stateof-the-art methods on FERPlus, AffectNet, SFEW, and RAFDB.
 <div align="center">
-<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/soat_ferplus.png" width="210" >
+<img src="https://github.com/kaiwang960112/Challenge-condition-FER-dataset/raw/master/figs/soat_ferplus.png" width="420" >
  </div>
 
 ## Our training codes and collected datasets
