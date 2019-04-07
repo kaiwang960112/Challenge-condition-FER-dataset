@@ -62,7 +62,10 @@ The confusion matrices of baseline methods and our RAN on the Occlusion- and Pos
 </div>
  
 Illustration of learned attention weights for different regions along with origianl faces. <img src="http://latex.codecogs.com/gif.latex?$s(\cdot)$" /> denotes the softmax function. Red-filled boxes indicate the highest weights while blue-filled ones are the lowest weights. From left to right, the columns represent the original faces, regions 
-<img src="http://latex.codecogs.com/gif.latex?$I_1$" /> to <img src="http://latex.codecogs.com/gif.latex?$I_5$" />.Note that the left and right figures show the weights by use the PBLoss or not respectively.What is learned for occlusion and pose variant faces? In the left, we illustrate the final attention weights with softmax function to better explore our RAN in figure above. To better explore our RAN, we illustrate the final attention weights for several examples with RB-Loss and without RB-Loss, respectively. Occlusion examples are shown in the first two rows, and pose examples in the last two rows.
+<img src="http://latex.codecogs.com/gif.latex?$I_1$" /> to <img src="http://latex.codecogs.com/gif.latex?$I_5$" />.Note that the left and right figures show the weights by use the PBLoss or not respectively.
+<!--
+What is learned for occlusion and pose variant faces? In the left, we illustrate the final attention weights with softmax function to better explore our RAN in figure above. To better explore our RAN, we illustrate the final attention weights for several examples with RB-Loss and without RB-Loss, respectively. Occlusion examples are shown in the first two rows, and pose examples in the last two rows.
+-->
 
 ## Comparison with the state-of-the-art methods
 We compare our best results to several stateof-the-art methods on FERPlus, AffectNet, SFEW, and RAFDB.
