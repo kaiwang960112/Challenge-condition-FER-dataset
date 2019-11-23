@@ -1,3 +1,6 @@
+## Our manuscript has been accepted by Transactions on Image Processing as a REGULAR paper! [link](https://arxiv.org/pdf/1905.04075.pdf)
+
+
 # Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition
 
                                   Kai Wang, Xiaojiang Peng, Jianfei Yang, Debin Meng, and Yu Qiao
@@ -84,4 +87,4 @@ You can find occlusion dataset([ferplusocclusion](https://github.com/kaiwang9601
 
 The state-of-the-art models will be update at this [link](https://drive.google.com/drive/folders/1dpDntw-2jLCNgjZ20W9aLg8a6DEEo7gX?usp=sharing)
 
-## Our manuscript has been accepted by Transactions on Image Processing as a REGULAR paper! [link](https://arxiv.org/pdf/1905.04075.pdf)
+
