@@ -1,4 +1,6 @@
+## I have uploaded the occlusion- and pose-RAFDB list, you can see at Rad_db_fir. Thank you for your kindly waiting.
 ## Our manuscript has been accepted by Transactions on Image Processing as a REGULAR paper! [link](https://arxiv.org/pdf/1905.04075.pdf)
+
 
 
 # Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition
