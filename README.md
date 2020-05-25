@@ -1,4 +1,4 @@
-## I have uploaded the occlusion- and pose-RAFDB list, you can see at Rad_db_fir. Thank you for your kindly waiting.
+## I have uploaded the occlusion- and pose-RAFDB list, you can see at RAF_DB_dir. Thank you for your kindly waiting.
 ## Our manuscript has been accepted by Transactions on Image Processing as a REGULAR paper! [link](https://arxiv.org/pdf/1905.04075.pdf)
 
 
